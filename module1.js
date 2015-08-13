@@ -46,7 +46,7 @@ $(document).ready(function() {
     ImageUtils.putPixels(pixels, img.width, img.height);*/
 });
 
-//function makeMoreBlue(img) {
+function makeMoreBlue(img) {
 
     //var pixels = ImageUtils.getPixels(img);
     //var length = pixels.data.length;
@@ -56,7 +56,7 @@ $(document).ready(function() {
       //  data[i+2] = data[i+2] + 200;
     //}
     //ImageUtils.putPixels(pixels, img.width, img.height);
-//}
+}
 
 function makeMorePurple(img) {
 
